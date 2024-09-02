@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: inline-block;
+    width: 80px;
+}
+
+input[type="text"],
+input[type="email"] {
+    padding: 5px;
+    width: 200px;
+}
+
+input[type="submit"] {
+    padding: 5px 10px;
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: #4285F4;
+    text-decoration: none;
+}
